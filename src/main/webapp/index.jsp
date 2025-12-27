@@ -2,6 +2,6 @@
 
 <html> 
 
-<h1> WELCOME TO MIND CIRCUIT , WE DONT JUST TEACH , WE ALSO BUILD PEOPLE </h1> 
+<h1> hi this is test for github action </h1> 
 
 </html>
